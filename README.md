@@ -39,7 +39,7 @@ Includes customer signup, activity, plan type, and churn status.
 * Dashboard
    
 ## 📊 Dashboard Preview
-![Dashboard](your-image-file-name.png)
+![Dashboard](Screenshot 2026-03-26 224157.png)
 
 ## 🟡 Conclusion
 
